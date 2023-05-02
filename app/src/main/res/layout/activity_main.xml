@@ -13,6 +13,7 @@
         android:layout_height="300dp"
         app:cardCornerRadius="35dp"
         app:cardElevation="8dp"
+        android:id="@+id/cardView"
         app:cardUseCompatPadding="true"
         app:cardPreventCornerOverlap="true"
         app:cardBackgroundColor="#e0e0e0" >
